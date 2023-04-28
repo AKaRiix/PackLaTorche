@@ -1,0 +1,49 @@
+{
+	"FennecBlanche La Torche": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_B.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_torche.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"FennecJaune La Torche": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_Y_torche.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"FennecNoir La Torche": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_noir_torche.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"Octane La Torche": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_torche.png",
+			
+			"Skin": "HyperBeast_Diffuse_torche.png"
+		}
+    }
+}
