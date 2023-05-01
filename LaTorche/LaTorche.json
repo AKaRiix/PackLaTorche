@@ -45,5 +45,19 @@
 			
 			"Skin": "HyperBeast_Diffuse_torche.png"
 		}
+    },
+	"OctaneNoir La Torche": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_torche.png",
+			
+			"Skin": "octane_noir_torche.png"
+		}
     }
 }
